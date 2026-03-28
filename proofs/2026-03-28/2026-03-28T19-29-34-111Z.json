@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-03-28T19:29:34.111Z",
+  "model": "z-ai/glm-5",
+  "steps": [
+    {
+      "step": 0,
+      "timestamp": "2026-03-28T19:29:34.111Z",
+      "model": "z-ai/glm-5",
+      "finishReason": "fatal_error",
+      "content": "OPENROUTER_API_KEY not set",
+      "toolCalls": null
+    }
+  ],
+  "total_steps": 0,
+  "meta": {
+    "error": "OPENROUTER_API_KEY not set"
+  }
+}
